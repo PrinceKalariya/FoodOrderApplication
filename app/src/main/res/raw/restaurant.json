@@ -1,0 +1,384 @@
+[
+  {
+    "name":"La Pino'z Pizza",
+    "address":"1, Dasaram Complex, Zanzarda Rd, Junagadh.",
+    "delivery_charge": 50,
+    "image":"https://www.uengage.in/images/addo/logos/lapinoz.png",
+
+    "hours":{
+      "Sunday":"11:00 AM - 7:00 PM",
+      "Monday":"10:00 AM - 9:00 PM",
+      "Tuesday":"10:00 AM - 10:00 PM",
+      "Wednesday":"10:00 AM - 11:00 PM",
+      "Thursday":"10:00 AM - 10:00 PM",
+      "Friday":"10:00 AM - 11:00 PM",
+      "Saturday":"10:00 AM - 2:00 PM"
+    },
+    "menus": [
+      {
+        "name": "Farm Villa Pizza",
+        "price": 249.00,
+        "url": "https://static.uengage.in/uploads/5/image-827281-1595939023.jpeg"
+      },
+      {
+        "name": "Paneer Tikka Butter Masala Pizza",
+        "price": 225.00,
+        "url": "https://static.uengage.in/uploads/5/image-1578568992.jpeg"
+      },
+      {
+        "name": "Margherita Pizza",
+        "price": 149.00,
+        "url": "https://static.uengage.in/uploads/5/image-581856-1595939022.jpeg"
+      },
+      {
+        "name": "Garden Delight Pizza",
+        "price": 349.00,
+        "url": "https://static.uengage.in/uploads/5/image-571627-1595939023.jpeg"
+      },
+      {
+        "name": "Paneer Tikka Butter Masala Pizza",
+        "price": 289.00,
+        "url": "https://static.uengage.in/uploads/5/image-1578568992.jpeg"
+      },
+      {
+        "name": "Burn To Hell Pizza",
+        "price": 249.00,
+        "url": "https://static.uengage.in/uploads/5/image-1578569001.jpeg"
+      },
+      {
+        "name": "Cheezy-7 Pizza",
+        "price": 399.00,
+        "url": "https://static.uengage.in/uploads/5/image-1578568978.jpeg"
+      },
+      {
+        "name": "Peri Peri Veg Pizza",
+        "price": 289.00,
+        "url": "https://static.uengage.in/uploads/5/image-1578569029.jpeg"
+      },
+      {
+        "name": "English Retreat Pizza",
+        "price": 559.00,
+        "url": "https://static.uengage.in/uploads/5/image-463536-1595939022.jpeg"
+      },
+      {
+        "name": "La Pino'z Paneer Pizza",
+        "price": 559.00,
+        "url": "https://static.uengage.in/uploads/5/image-1578569585.jpeg"
+      },
+      {
+        "name": "Las Vegas Treat Pizza",
+        "price": 559.00,
+        "url": "https://static.uengage.in/uploads/5/image-1578569617.jpeg"
+      },
+      {
+        "name": "Korma Special Pizza",
+        "price": 559.00,
+        "url": "https://static.uengage.in/uploads/5/image-1578569043.jpeg"
+      },
+      {
+        "name": "Spring Fling Pizza",
+        "price": 359.00,
+        "url": "https://static.uengage.in/uploads/5/image-1578568905.jpeg"
+      },
+      {
+        "name": "Garden Special Pizza",
+        "price": 459.00,
+        "url": "https://static.uengage.in/uploads/5/image-1578568933.jpeg"
+      },
+      {
+        "name": "Veg Hawaiian Pizza",
+        "price": 199.00,
+        "url": "https://static.uengage.in/uploads/5/image-1560414882.jpeg"
+      },
+      {
+        "name": "Veg Tamer Pizza",
+        "price": 229.00,
+        "url": "https://static.uengage.in/uploads/5/image-1578569630.jpeg"
+      },
+      {
+        "name": "Indiana Pasta Veg",
+        "price": 189.00,
+        "url": "https://static.uengage.in/uploads/5/image-1578549873.jpeg"
+      },
+      {
+        "name": "Italiano Pasta Veg",
+        "price": 249.00,
+        "url": "https://static.uengage.in/uploads/5/image-1578549921.jpeg"
+      },
+      {
+        "name": "Paneer Tikka Butter Masala & Red Paprika Taco's",
+        "price": 249.00,
+        "url": "https://static.uengage.in/uploads/5/image-1578565295.jpeg"
+      },
+      {
+        "name": "Paneer & Corns Taco's",
+        "price": 249.00,
+        "url": "https://static.uengage.in/uploads/5/image-959482-1595939022.jpeg"
+      },
+      {
+        "name": "Mushrooms, Corns & Onion Taco's",
+        "price": 249.00,
+        "url": "https://static.uengage.in/uploads/5/image-1578565288.jpeg"
+      },
+      {
+        "name": "Hot Passion Pizza",
+        "price": 499.00,
+        "url": "https://static.uengage.in/uploads/5/image-1578569568.jpeg"
+      }
+    ]
+  },
+  {
+    "name":"McDonald's",
+    "address":"Ground & 1st Floor, Jupiter Atrium Everest Park, Rajkot.",
+    "delivery_charge": 50,
+    "image":"https://www.mcdonalds.com/content/dam/usa/nfl/assets/nav/arches-logo_108x108.jpg",
+    "hours":{
+      "Sunday":"11:00 AM - 7:00 PM",
+      "Monday":"10:00 AM - 10:00 PM",
+      "Tuesday":"10:00 AM - 10:00 PM",
+      "Wednesday":"10:00 AM - 8:00 PM",
+      "Thursday":"10:00 AM - 10:00 PM",
+      "Friday":"10:00 AM - 10:00 PM",
+      "Saturday":"9:00 AM - 2:00 PM"
+    },
+    "menus": [
+      {
+        "name": "MEXICAN MCALOO TIKKI",
+        "price": 199.00,
+        "url": "https://www.mcdonaldsindia.com/images/products/new/Website-600-600-pix-Mexican-McAloo-Tikki-Burger.png"
+      },
+      {
+        "name": "GREEN CHILLI ALOO NAAN",
+        "price": 499.00,
+        "url": "https://www.mcdonaldsindia.com/images/products/new/Green-Chilli-Naan-Aloo.jpg"
+      },
+      {
+        "name": "FRENCH FRIES",
+        "price": 199.00,
+        "url": "https://www.mcdonaldsindia.com/images/productview/fries.jpg"
+      },
+      {
+        "name": "Chocolate Shake",
+        "price": 399.00,
+        "url": "https://www.mcdonalds.com/is/image/content/dam/usa/nfl/nutrition/items/hero/desktop/t-mcdonalds-Chocolate-McCafe-Shake-Medium.jpg?$Product_Desktop$"
+      },
+      {
+        "name": "Strawberry Shake",
+        "price": 359.00,
+        "url": "https://www.mcdonalds.com/is/image/content/dam/usa/nfl/nutrition/items/hero/desktop/t-mcdonalds-Strawberry-McCafe-Shake-Medium.jpg?$Product_Desktop$"
+      },
+      {
+        "name": "ICED TEA",
+        "price": 159.00,
+        "url": "https://www.mcdonaldsindia.com/images/productview/icedtea.jpg"
+      },
+      {
+        "name": "FILTER COFFEE",
+        "price": 159.00,
+        "url": "https://www.mcdonaldsindia.com/images/productview/Cappucino.jpg"
+      },
+      {
+        "name": "CHEESE SUPREME VEG BURGER",
+        "price": 259.00,
+        "url": "https://www.mcdonaldsindia.com/images/products/new/American-VEG-copy.png"
+      },
+      {
+        "name": "COLD COFFEE",
+        "price": 159.00,
+        "url": "https://www.mcdonaldsindia.com/images/coldcoffee.jpg"
+      },
+      {
+        "name": "MCSHAKE STRAWBERRY",
+        "price": 259.00,
+        "url": "https://www.mcdonaldsindia.com/images/productview/Strawberry-shake.jpg"
+      },
+      {
+        "name": "Filet-O-Fish",
+        "price": 349.00,
+        "url": "https://www.mcdonalds.com/is/image/content/dam/usa/nfl/nutrition/items/hero/desktop/t-mcdonalds-Filet-O-Fish.png?$Product_Desktop$"
+      },
+      {
+        "name": "McNuggets",
+        "price": 399.00,
+        "url": "https://www.mcdonalds.com/is/image/content/dam/usa/nfl/nutrition/items/hero/desktop/t-mcdonalds-Chicken-McNuggets-4pc.jpg?$Product_Desktop$"
+      },
+      {
+        "name": "Combo Meal",
+        "price": 829.00,
+        "url": "https://www.mcdonalds.com/is/image/content/dam/usa/nfl/assets/meal/desktop/h-mcdonalds-Big-Mac-Extra-Value-Meals.jpg?$Product_Desktop$"
+      },
+      {
+        "name": "McMuffin Meal",
+        "price": 699.00,
+        "url": "https://www.mcdonalds.com/is/image/content/dam/usa/nfl/assets/meal/desktop/h-mcdonalds-Egg-McMuffin-Extra-Value-Meals.jpg?$Product_Desktop$"
+      },
+      {
+        "name": "MEXICAN ALOO WRAP",
+        "price": 699.00,
+        "url": "https://www.mcdonaldsindia.com/images/products/new/Website600x600pix-Mexican-Aloo-Wrap.png"
+      },
+      {
+        "name": "SOFT SERVE (REGULAR)",
+        "price": 699.00,
+        "url": "https://www.mcdonaldsindia.com/images/productview/SoftServe(Regular).jpg"
+      },
+      {
+        "name": "BROWNIE & HOT FUDGE",
+        "price": 399.00,
+        "url": "https://www.mcdonaldsindia.com/images/productview/WalnutBrownie&HotFudge.jpg"
+      }
+    ]
+  },
+  {
+    "name":"K F C",
+    "address":"Pushpak Complex, Shop No 13 to 16, 100 Feet Anand Nagar Rd,Ahmedabad.",
+    "delivery_charge": 50,
+    "image":"https://yt3.ggpht.com/9e6dkJZVtjPqPVQbFKYzHC21Ei7X5JaR3t2m7hMecu5UZbDkWrOh3tBKLk91D22ggIASauus=s900-c-k-c0x00ffffff-no-rj",
+    "hours":{
+      "Sunday":"11:00 AM - 7:00 PM",
+      "Monday":"10:00 AM - 10:00 PM",
+      "Tuesday":"10:00 AM - 10:00 PM",
+      "Wednesday":"10:00 AM - 8:00 PM",
+      "Thursday":"10:00 AM - 10:00 PM",
+      "Friday":"10:00 AM - 10:00 PM",
+      "Saturday":"10:00 AM - 3:00 PM"
+    },
+    "menus": [
+      {
+        "name": "Wednesday Bucket",
+        "price": 649.00,
+        "url": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/A-30637-40485.jpg?ver=4.94"
+      },
+      {
+        "name": "Stay Home Bucket",
+        "price": 749.00,
+        "url": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/A-32244-0.jpg?ver=4.94"
+      },
+      {
+        "name": "Family Feast",
+        "price": 789.00,
+        "url": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/A-32256-0.jpg?ver=4.94"
+      },
+      {
+        "name": "10pc Chipotle Fried Chicken & 4 Dips",
+        "price": 799.00,
+        "url": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/A-33109-0.jpg?ver=4.94"
+      },
+      {
+        "name": "5pc Chipotle Fried Chicken Meal ",
+        "price": 599.00,
+        "url": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/A-33108-0.jpg?ver=4.94"
+      },
+      {
+        "name": "Friendship Bucket",
+        "price": 699.00,
+        "url": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/A-33112-0.jpg?ver=4.94"
+      },
+      {
+        "name": "Big 12",
+        "price": 799.00,
+        "url": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/A-32293-0.jpg?ver=4.94"
+      },
+      {
+        "name": "8 pc Hot & Crispy Chicken",
+        "price": 699.00,
+        "url": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/A-30640-40488.jpg?ver=4.94"
+      },
+      {
+        "name": "Chick & Share",
+        "price": 699.00,
+        "url": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/A-33115-0.jpg?ver=4.94"
+      },
+      {
+        "name": "KFC Favorites",
+        "price": 399.00,
+        "url": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/A-30865-0.jpg?ver=4.94"
+      },
+      {
+        "name": "Super Snacker Combo",
+        "price": 499.00,
+        "url": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/A-33116-0.jpg?ver=4.94"
+      },
+      {
+        "name": "Classic Zinger Meal",
+        "price": 319.00,
+        "url": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/A-33066-0.jpg?ver=4.94"
+      },
+      {
+        "name": "Mingles Bucket Meal",
+        "price": 459.00,
+        "url": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/A-33202-0.jpg?ver=4.94"
+      },
+      {
+        "name": "Ultimate Savings Bucket",
+        "price": 699.00,
+        "url": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/A-33120-0.jpg?ver=4.94"
+      },
+      {
+        "name": "2 Veg Krisper Burgers",
+        "price": 138.00,
+        "url": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/A-32573-0.jpg?ver=4.94"
+      },
+      {
+        "name": "Veg-Non-Veg Krispers Combo",
+        "price": 349.00,
+        "url": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/A-32579-0.jpg?ver=4.94"
+      },
+      {
+        "name": "Mixed Zinger Doubles",
+        "price": 309.00,
+        "url": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/A-32232-0.jpg?ver=4.94"
+      },
+      {
+        "name": "Veg Zinger Box",
+        "price": 349.00,
+        "url": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/A-32398-0.jpg?ver=4.94"
+      },
+      {
+        "name": "2 Veg Krispers Meal",
+        "price": 249.00,
+        "url": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/A-32574-0.jpg?ver=4.94"
+      },
+      {
+        "name": "Rice Duo Meal",
+        "price": 419.00,
+        "url": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/A-31950-0.jpg?ver=4.94"
+      },
+      {
+        "name": "Veg Rice Bowl",
+        "price": 149.00,
+        "url": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/A-30666-40508.jpg?ver=4.94"
+      },
+      {
+        "name": "Choco Mud Pie",
+        "price": 149.00,
+        "url": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/A-32841-42014.jpg?ver=4.94"
+      },
+      {
+        "name": "Chicken & Fries Bucket",
+        "price": 349.00,
+        "url": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/A-31984-0.jpg?ver=4.94"
+      },
+      {
+        "name": "Large Fries",
+        "price": 149.00,
+        "url": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/A-32287-41499.jpg?ver=4.94"
+      },
+      {
+        "name": "2 pc Smoky Red Chicken",
+        "price": 249.00,
+        "url": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/A-30919-40700.jpg?ver=4.94"
+      },
+      {
+        "name": "3pc Boneless Chicken strips",
+        "price": 149.00,
+        "url": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/A-33124-42154.jpg?ver=4.94"
+      },
+      {
+        "name": "Pack of 4 Dips",
+        "price": 99.00,
+        "url": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/A-32291-0.jpg?ver=4.94"
+      }
+    ]
+  }
+]

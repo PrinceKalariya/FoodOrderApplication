@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Food Ordering Application</string>
+    <string name="todo">splash_img</string>
+    <string name="food_ordering_application">Food Ordering Application</string>
+    <string name="login">Login</string>
+    <string name="forgot_password">Forgot Password ?</string>
+    <string name="you_do_not_have_account">You Do Not Have Account ?</string>
+    <string name="todo2">TODO2</string>
+</resources>
